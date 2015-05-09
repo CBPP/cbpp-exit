@@ -8,6 +8,6 @@ Homepage: https://crunchbangplusplus.org
 
 Package: cbpp-exit
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, python-gtk2, consolekit, upower
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-gtk2, consolekit, upower, systemd
 Description: CrunchBangPlusPlus logout script.
  GUI logout/shutdown/restart/suspend script.
