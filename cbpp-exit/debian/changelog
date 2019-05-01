@@ -1,3 +1,9 @@
+cbpp-exit (10.0) unstable; urgency=low
+
+  * Removed unneccessary dependencies on upower and consolekit
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Tue, 30 Apr 2019 21:27:25 -0600
+
 cbpp-exit (1.0) unstable; urgency=low
 
   * Initial Release.
