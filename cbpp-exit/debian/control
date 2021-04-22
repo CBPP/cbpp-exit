@@ -2,12 +2,12 @@ Source: cbpp-exit
 Section: misc
 Priority: extra
 Maintainer: Ben Young <computermouth@crunchbangplusplus.org>
-Build-Depends: debhelper (>= 11)
+Build-Depends: debhelper (>= 13)
 Standards-Version: 3.9.5
 Homepage: https://crunchbangplusplus.org
 
 Package: cbpp-exit
 Architecture: all
-Depends: ${misc:Depends}, python-gtk2
+Depends: ${misc:Depends}, python3-gi
 Description: CrunchBangPlusPlus logout script.
  GUI logout/shutdown/restart/suspend script.
