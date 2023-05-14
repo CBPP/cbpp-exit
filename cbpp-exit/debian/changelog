@@ -1,5 +1,11 @@
 cbpp-exit (11.0) unstable; urgency=low
 
+  * Version bump
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 14 May 2023 17:03:25 -0600
+ 
+cbpp-exit (11.0) unstable; urgency=low
+
   * Migrated to python3 and gi
 
  -- Ben Young <computermouth@crunchbangplusplus.org>  Thu, 22 Apr 2021 12:48:25 -0600
