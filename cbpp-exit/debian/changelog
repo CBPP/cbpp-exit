@@ -1,3 +1,9 @@
+cbpp-exit (12.1) unstable; urgency=low
+
+  * @kip2choc added ESC hotkey to close the window
+
+ -- Ben Young <computermouth@crunchbangplusplus.org>  Thu, 01 Feb 2024 19:24:25 -0600
+ 
 cbpp-exit (12.0) unstable; urgency=low
 
   * Version bump
