@@ -18,7 +18,7 @@ class ButtonWindow(Gtk.Window):
 		self.set_keep_above(True)
 		self.stick
 		self.set_position(1)
-		icon = Gtk.IconTheme.get_default().load_icon(Gtk.STOCK_QUIT, 64, 0)
+		icon = Gtk.IconTheme.get_default().load_icon("application-exit", 64, 0)
 		self.set_icon(icon)
 
 		vbox = Gtk.Box(orientation=Gtk.Orientation.VERTICAL, spacing=6)
